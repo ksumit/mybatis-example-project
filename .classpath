@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources-dev"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.13/mysql-connector-java-5.1.13-bin.jar" sourcepath="lib/mysql-connector-java-5.1.13/src"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.0.2/mybatis-3.0.2.jar" sourcepath="lib/mybatis-3.0.2/mybatis-3.0.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
